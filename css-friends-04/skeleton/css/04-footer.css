@@ -1,0 +1,9 @@
+/* PHASE 4: Footer */
+.footer {
+  display: flex;
+  j
+  width: 920px;
+  height: 40px;
+  padding: 10px; 
+  background: white;
+}
